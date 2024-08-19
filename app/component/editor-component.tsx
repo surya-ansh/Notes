@@ -31,15 +31,15 @@ const EditorComponent = () => {
 
     const users = [
         {
-            name: 'Coding With Mr.M',
+            name: 'Coding With Me',
             color: 'yellow'
         },
         {
-            name: 'Coding With Mr.M2',
+            name: 'Coding With Me2',
             color: 'Blue'
         },
         {
-            name: 'Coding With Mr.M3',
+            name: 'Coding With Me3',
             color: 'red'
         },
     ]
