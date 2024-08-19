@@ -9,11 +9,11 @@ export default function Home() {
         <EditorComponent />
       </div>
       <footer className="flex justify-center items-center w-full py-4 ">
-        Made with ❤️ by  <Link href={"https://www.youtube.com/@CodingWithMrM"}
+        Made with ❤️ by  <Link href={"https://github.com/surya-ansh"}
           target="_blank"
           className='pl-1'
         >
-          Coding With Mr.M
+          Suryansh Singh
         </Link>
       </footer>
     </main >
